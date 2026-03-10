@@ -5172,9 +5172,9 @@
         <icon src="https://images.pluto.tv/series/63330e5092c83e0007b46202/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f4f4b88157cf00075c22db" start="20260310173735 +0000" stop="20260310180806 +0000">
-        <title>Pluto TV Horror</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>The Twilight Zone DE: Einer zuviel</title>
+        <desc>Soldaten folgen Spuren, die von einem zugefrorenen Teich in ein Diner führen. Darin finden sie einen Softdrink-Zapfer, einen Busfahrer und seine sieben Passagiere. Der Busfahrer ist sich sicher, dass nur sechs Personen in seinen Bus eingestiegen sind …</desc>
+        <icon src="https://images.pluto.tv/series/646e08eb13c2c2001a4581b2/tile_1773053641041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f4f4b88157cf00075c22db" start="20260310180806 +0000" stop="20260310181106 +0000">
         <title>Pluto TV Horror</title>
@@ -5182,9 +5182,9 @@
         <icon src="https://images.pluto.tv/series/63330e5092c83e0007b46202/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f4f4b88157cf00075c22db" start="20260310181106 +0000" stop="20260310184141 +0000">
-        <title>Pluto TV Horror</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>The Twilight Zone DE: Einer gegen den Staat</title>
+        <desc>In einem Staat in der Zukunft, in dem Religion und Bücher verboten sind, wird ein Bibliothekar für überflüssig erklärt und zum Tode verurteilt.</desc>
+        <icon src="https://images.pluto.tv/series/646e08eb13c2c2001a4581b2/tile_1773053641041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f4f4b88157cf00075c22db" start="20260310184141 +0000" stop="20260310184241 +0000">
         <title>Pluto TV Horror</title>
@@ -5826,10 +5826,50 @@
         <desc>Kriege, Streiks, Revolutionen – Spiegel TV Konflikte erklärt die Konflikte, die unsere Welt geprägt haben.</desc>
         <icon src="https://images.pluto.tv/series/65e19df8332fec00084c6f54/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65d5fc39a25d5e00082895c4" start="20260310173000 +0000" stop="20260310213000 +0000">
+    <programme channel="65d5fc39a25d5e00082895c4" start="20260310173000 +0000" stop="20260310180000 +0000">
         <title>Naruto</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65d5fc39a25d5e00082895c4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20260310180000 +0000" stop="20260310183000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20260310183000 +0000" stop="20260310190000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20260310190000 +0000" stop="20260310193000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20260310193000 +0000" stop="20260310200000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20260310200000 +0000" stop="20260310203000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20260310203000 +0000" stop="20260310210000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20260310210000 +0000" stop="20260310213000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65d5fc39a25d5e00082895c4" start="20260310213000 +0000" stop="20260310220000 +0000">
+        <title>Naruto</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/65fc15fe0d45610008550e82/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="663a15d7cb3ea10008edac88" start="20260310172100 +0000" stop="20260310183300 +0000">
         <title>Ackervision</title>
@@ -5856,10 +5896,10 @@
         <desc>Wie schafft es ein 11-jähriges, 25 Kilo leichtes Mädchen, ein etwa 400 Kilo schweres Pferd zu kontrollieren? Wie kontrolliert ein Polospieler sein Pony? Die Dokumentation erklärt, wie das Zusammenspiel zwischen Pferd und Reiter funktioniert.</desc>
         <icon src="https://images.pluto.tv/series/68b5a7d9e5ae05a8907ebd09/tile_1756762156864.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="669526d232e25300084bb47b" start="20260310173000 +0000" stop="20260310180926 +0000">
-        <title>Pluto TV Sharks</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/669526d232e25300084bb47b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="669526d232e25300084bb47b" start="20260310171726 +0000" stop="20260310180926 +0000">
+        <title>Fluss-Monster: Der Kamba-Wels</title>
+        <desc>Jeremy Wade reist auf den Spuren der Legende vom Geist Mami Wata zum Kongo-Fluss.</desc>
+        <icon src="https://images.pluto.tv/series/63ea1b0f163e9100136ad2d6/tile_1771340760926.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="669526d232e25300084bb47b" start="20260310180926 +0000" stop="20260310190126 +0000">
         <title>Fluss-Monster: Der weiße Stör</title>
@@ -5936,30 +5976,60 @@
         <desc>Yuki teilt Basara mit, dass sie mit ihm, Maria und Mio zusammenziehen will. Doch Basara gerät in der Mädchen-Umkleide des Schwimmbads in eine äußerst heikle Situation, die für viel Aufregung sorgt.</desc>
         <icon src="https://images.pluto.tv/series/6818b7bf09261e2706ee5858/tile_1767655753554.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67fe498f9ebfe4142424c55d" start="20260310173000 +0000" stop="20260310210101 +0000">
-        <title>Beelzebub</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/67fe498f9ebfe4142424c55d/featuredImage_1752566159519.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="67fe498f9ebfe4142424c55d" start="20260310170101 +0000" stop="20260310173101 +0000">
+        <title>Beelzebub startet um 22:00 Uhr</title>
+        <desc>In einer Schule voller Rowdies will wirklich niemand Tatsumi Oga in die Quere kommen. Genau dieser findet jedoch ein Baby, das der Sohn des Dämonenkönigs ist! Zu allem Überfluss soll Oga den Kleinen zum Herrscher der Welt erziehen!</desc>
+        <icon src="https://images.pluto.tv/series/6878aa0d3484d60732bda64a/tile_1762335654228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67fe498f9ebfe4142424c55d" start="20260310173101 +0000" stop="20260310180101 +0000">
+        <title>Beelzebub startet um 22:00 Uhr</title>
+        <desc>In einer Schule voller Rowdies will wirklich niemand Tatsumi Oga in die Quere kommen. Genau dieser findet jedoch ein Baby, das der Sohn des Dämonenkönigs ist! Zu allem Überfluss soll Oga den Kleinen zum Herrscher der Welt erziehen!</desc>
+        <icon src="https://images.pluto.tv/series/6878aa0d3484d60732bda64a/tile_1762335654228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67fe498f9ebfe4142424c55d" start="20260310180101 +0000" stop="20260310183101 +0000">
+        <title>Beelzebub startet um 22:00 Uhr</title>
+        <desc>In einer Schule voller Rowdies will wirklich niemand Tatsumi Oga in die Quere kommen. Genau dieser findet jedoch ein Baby, das der Sohn des Dämonenkönigs ist! Zu allem Überfluss soll Oga den Kleinen zum Herrscher der Welt erziehen!</desc>
+        <icon src="https://images.pluto.tv/series/6878aa0d3484d60732bda64a/tile_1762335654228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67fe498f9ebfe4142424c55d" start="20260310183101 +0000" stop="20260310190101 +0000">
+        <title>Beelzebub startet um 22:00 Uhr</title>
+        <desc>In einer Schule voller Rowdies will wirklich niemand Tatsumi Oga in die Quere kommen. Genau dieser findet jedoch ein Baby, das der Sohn des Dämonenkönigs ist! Zu allem Überfluss soll Oga den Kleinen zum Herrscher der Welt erziehen!</desc>
+        <icon src="https://images.pluto.tv/series/6878aa0d3484d60732bda64a/tile_1762335654228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67fe498f9ebfe4142424c55d" start="20260310190101 +0000" stop="20260310193101 +0000">
+        <title>Beelzebub startet um 22:00 Uhr</title>
+        <desc>In einer Schule voller Rowdies will wirklich niemand Tatsumi Oga in die Quere kommen. Genau dieser findet jedoch ein Baby, das der Sohn des Dämonenkönigs ist! Zu allem Überfluss soll Oga den Kleinen zum Herrscher der Welt erziehen!</desc>
+        <icon src="https://images.pluto.tv/series/6878aa0d3484d60732bda64a/tile_1762335654228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67fe498f9ebfe4142424c55d" start="20260310193101 +0000" stop="20260310200101 +0000">
+        <title>Beelzebub startet um 22:00 Uhr</title>
+        <desc>In einer Schule voller Rowdies will wirklich niemand Tatsumi Oga in die Quere kommen. Genau dieser findet jedoch ein Baby, das der Sohn des Dämonenkönigs ist! Zu allem Überfluss soll Oga den Kleinen zum Herrscher der Welt erziehen!</desc>
+        <icon src="https://images.pluto.tv/series/6878aa0d3484d60732bda64a/tile_1762335654228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67fe498f9ebfe4142424c55d" start="20260310200101 +0000" stop="20260310203101 +0000">
+        <title>Beelzebub startet um 22:00 Uhr</title>
+        <desc>In einer Schule voller Rowdies will wirklich niemand Tatsumi Oga in die Quere kommen. Genau dieser findet jedoch ein Baby, das der Sohn des Dämonenkönigs ist! Zu allem Überfluss soll Oga den Kleinen zum Herrscher der Welt erziehen!</desc>
+        <icon src="https://images.pluto.tv/series/6878aa0d3484d60732bda64a/tile_1762335654228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67fe498f9ebfe4142424c55d" start="20260310203101 +0000" stop="20260310210101 +0000">
+        <title>Beelzebub startet um 22:00 Uhr</title>
+        <desc>In einer Schule voller Rowdies will wirklich niemand Tatsumi Oga in die Quere kommen. Genau dieser findet jedoch ein Baby, das der Sohn des Dämonenkönigs ist! Zu allem Überfluss soll Oga den Kleinen zum Herrscher der Welt erziehen!</desc>
+        <icon src="https://images.pluto.tv/series/6878aa0d3484d60732bda64a/tile_1762335654228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67fe498f9ebfe4142424c55d" start="20260310210101 +0000" stop="20260310213040 +0000">
         <title>Beelzebub</title>
         <desc>Weil Oga die Schule zertrümmert hat, gehen die Ishiyama-Schäger vorläufig auf die St. Ishiyama-Akademie. Dort treffen sie auf neue Bewunderer, aber auch auf neue Feinde ...</desc>
         <icon src="https://images.pluto.tv/series/6870c7504f8d4a99170a5ee8/tile_1767762175098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67fe498f9ebfe4142424c55d" start="20260310213040 +0000" stop="20260310220019 +0000">
-        <title>Beelzebub</title>
-        <desc>In der St. Ishiyama-Akademie gibt es einen Schüler, der unbedingt ein Schläger werden will. Wird er es schaffen, Oga davon zu überzeugen, ihn als Lehrling aufzunehmen?</desc>
-        <icon src="https://images.pluto.tv/series/6870c7504f8d4a99170a5ee8/tile_1767762175098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="67ff7d9c7fc25e0e72451bc9" start="20260310172849 +0000" stop="20260310175920 +0000">
+        <title>The Twilight Zone DE: Einer zuviel</title>
+        <desc>Soldaten folgen Spuren, die von einem zugefrorenen Teich in ein Diner führen. Darin finden sie einen Softdrink-Zapfer, einen Busfahrer und seine sieben Passagiere. Der Busfahrer ist sich sicher, dass nur sechs Personen in seinen Bus eingestiegen sind …</desc>
+        <icon src="https://images.pluto.tv/series/646e08eb13c2c2001a4581b2/tile_1773053641041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67fe498f9ebfe4142424c55d" start="20260310220019 +0000" stop="20260310222958 +0000">
-        <title>Beelzebub</title>
-        <desc>Bei der Willkommensparty für Angelica, die zu Besuch in der Menschenwelt ist, läuft nun auch ein Yoppuraner in der Nachbarschaft frei herum. Ihn einzufangen, schaffen womöglich nur die Magical Girls...</desc>
-        <icon src="https://images.pluto.tv/series/6870c7504f8d4a99170a5ee8/tile_1767762175098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67ff7d9c7fc25e0e72451bc9" start="20260310173000 +0000" stop="20260310182955 +0000">
-        <title>Pluto TV Horror-Serien</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/67ff7d9c7fc25e0e72451bc9/featuredImage_1749796239048.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="67ff7d9c7fc25e0e72451bc9" start="20260310175920 +0000" stop="20260310182955 +0000">
+        <title>The Twilight Zone DE: Einer gegen den Staat</title>
+        <desc>In einem Staat in der Zukunft, in dem Religion und Bücher verboten sind, wird ein Bibliothekar für überflüssig erklärt und zum Tode verurteilt.</desc>
+        <icon src="https://images.pluto.tv/series/646e08eb13c2c2001a4581b2/tile_1773053641041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67ff7d9c7fc25e0e72451bc9" start="20260310182955 +0000" stop="20260310185755 +0000">
         <title>The Twilight Zone DE: Tag 1 des Jahres 6</title>
@@ -6041,10 +6111,15 @@
         <desc>Das älteste von drei transsilvanischen Geschwistern stößt beim Graben nach Wasser auf Öl.</desc>
         <icon src="https://images.pluto.tv/series/68df040beacdcfc0f79d50b8/tile_1759447719914.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68ada399247c66a111528aaa" start="20260310173000 +0000" stop="20260310192055 +0000">
-        <title>Pluto TV Popkultur</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/68ada399247c66a111528aaa/featuredImage_1759952078760.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="68ada399247c66a111528aaa" start="20260310162848 +0000" stop="20260310174855 +0000">
+        <title>Bis zum Limit: Fabio Wibmer</title>
+        <desc>Erlebe ein Action geladenes und risikoreiches Urban Mountainbike Abenteuer mit Extremsportler Fabio Wibmer. Warum versucht er immer wieder an sein Limit zu gehen und setzt sich dabei hoher Verletzungsgefahr aus.</desc>
+        <icon src="https://images.pluto.tv/series/65a649c8954dcc001410f09e/tile_1767761557001.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ada399247c66a111528aaa" start="20260310174855 +0000" stop="20260310192055 +0000">
+        <title>Mr. Hockey: Die Gordie Howe Story</title>
+        <desc>Nach wahren Begebenheiten erzählt der Film das Leben von der Eishockeylegende Gordie “Mr. Hockey” Howe nach seinem eigentlichen Ruhestand.</desc>
+        <icon src="https://images.pluto.tv/series/6229c784956df9001a7d8509/tile_1767805982058.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68ada399247c66a111528aaa" start="20260310192055 +0000" stop="20260310195630 +0000">
         <title>Wir und Ihr</title>
@@ -6066,10 +6141,15 @@
         <desc>María in Mexiko will ein Ende der Gewalt gegen Frauen; Somkele kämpft für Demokratie in Nigeria. Doch die Eltern der beiden sehen den Aktivismus mit gemischten Gefühlen. Denn politisches Engagement kann lebensgefährlich sein.</desc>
         <icon src="https://images.pluto.tv/series/67c6e43dce1055f0cdbc0615/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68ada3edf84960586ad31c7d" start="20260310173000 +0000" stop="20260310183306 +0000">
-        <title>Pluto TV Reportagen</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/68ada3edf84960586ad31c7d/featuredImage_1760078183634.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="68ada3edf84960586ad31c7d" start="20260310162906 +0000" stop="20260310173306 +0000">
+        <title>Wasser ist Zukunft: Der Colorado - Ein Fluss sucht seine Mündung</title>
+        <desc>Der Colorado versorgt unzählige Menschen mit Wasser. Dafür hat man ihn gebändigt. Er erreicht das Meer nicht mehr, sondern versickert. Wie kann es gelingen, dass er eines Tages wieder sein Ziel erreicht und das trockene Delta zu neuem Leben erwacht?</desc>
+        <icon src="https://images.pluto.tv/series/6507ff53020c54001333953b/tile_1767655108806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68ada3edf84960586ad31c7d" start="20260310173306 +0000" stop="20260310183306 +0000">
+        <title>Wasser ist Zukunft: Der Jordan - Fluss des Friedens?</title>
+        <desc>Der Jordan: Er ist eine Wiege der Kulturen. Doch er leidet unter Wassermangel. Die Wasserknappheit führt schon lange zu Konflikten in der Region. Aber es gibt Menschen, die gemeinsam nach Lösungen suchen. Sie wollen den Jordan retten und Frieden schaffen.</desc>
+        <icon src="https://images.pluto.tv/series/6507ff53020c54001333953b/tile_1767655108806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68ada3edf84960586ad31c7d" start="20260310183306 +0000" stop="20260310193557 +0000">
         <title>Nikita Chruschtschow – Der Rote Zar</title>
@@ -10331,50 +10411,10 @@
         <desc>Thad hat die Uni abgeschlossen und beginnt seine Profi-Karriere in der NFL – nun liegt es an Quarterback Alex, sein Team in den Kampf gegen den rachsüchtigen Universitätsrektor zu führen, der das Goat House schließen lassen will.</desc>
         <icon src="https://images.pluto.tv/series/624fd9794a1dfc0013fc80c9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6864e8f264d94c1425fb4563" start="20260310213000 +0000" stop="20260310220000 +0000">
+    <programme channel="6864e8f264d94c1425fb4563" start="20260310213000 +0000" stop="20260311013000 +0000">
         <title>Merhaba Türkische Serien</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68df6e7ccc3c6cd904fd1409/tile_1759473326828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6864e8f264d94c1425fb4563" start="20260310220000 +0000" stop="20260310223000 +0000">
-        <title>Merhaba Türkische Serien</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68df6e7ccc3c6cd904fd1409/tile_1759473326828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6864e8f264d94c1425fb4563" start="20260310223000 +0000" stop="20260310230000 +0000">
-        <title>Merhaba Türkische Serien</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68df6e7ccc3c6cd904fd1409/tile_1759473326828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6864e8f264d94c1425fb4563" start="20260310230000 +0000" stop="20260310233000 +0000">
-        <title>Merhaba Türkische Serien</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68df6e7ccc3c6cd904fd1409/tile_1759473326828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6864e8f264d94c1425fb4563" start="20260310233000 +0000" stop="20260311000000 +0000">
-        <title>Merhaba Türkische Serien</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68df6e7ccc3c6cd904fd1409/tile_1759473326828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6864e8f264d94c1425fb4563" start="20260311000000 +0000" stop="20260311003000 +0000">
-        <title>Merhaba Türkische Serien</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68df6e7ccc3c6cd904fd1409/tile_1759473326828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6864e8f264d94c1425fb4563" start="20260311003000 +0000" stop="20260311010000 +0000">
-        <title>Merhaba Türkische Serien</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68df6e7ccc3c6cd904fd1409/tile_1759473326828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6864e8f264d94c1425fb4563" start="20260311010000 +0000" stop="20260311013000 +0000">
-        <title>Merhaba Türkische Serien</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68df6e7ccc3c6cd904fd1409/tile_1759473326828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6864e8f264d94c1425fb4563" start="20260311013000 +0000" stop="20260311020000 +0000">
-        <title>Merhaba Türkische Serien</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68df6e7ccc3c6cd904fd1409/tile_1759473326828.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6864e8f264d94c1425fb4563/featuredImage_1755512689087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="688734b9035d6ef9c34aac16" start="20260310205446 +0000" stop="20260310215019 +0000">
         <title>Die fliegenden Ärzte</title>
